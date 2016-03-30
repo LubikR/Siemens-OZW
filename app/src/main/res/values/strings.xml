@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kotel</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="loading1">Stahuji data...</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="ip">IP adress</string>
+    <string name="port">Port</string>
+    <string name="ok">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="alert_first_time_message">Vítejte u prvního spuštění aplikace. Potřebujeme nastavit několik věcí.</string>
+    <string name="alert_firt_time_title">Siemens OZW</string>
+
+</resources>
